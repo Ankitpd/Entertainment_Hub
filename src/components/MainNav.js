@@ -56,7 +56,7 @@ export default function SimpleBottomNavigation() {
       />
       <BottomNavigationAction
         style={{ color: "white" }}
-        label="sSearch"
+        label="Search"
         icon={<SearchIcon />}
       />
     </BottomNavigation>
